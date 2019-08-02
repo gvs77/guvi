@@ -1,7 +1,7 @@
 c=input()
 if(c=='a' or c=='e' or c=='i' or c=='o' or c=='u'):
-  print("vowles")
+  print("Vowles")
 elif(c!='a' or c!='e' or c!='i' or c!='o' or c!='u'):
-  print("consonant")
+  print("Consonant")
 else:
-  print("invalid")
+  print("Invalid")
