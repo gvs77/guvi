@@ -4,4 +4,4 @@ if(c%2==0):
 elif(c%2!=0):
   print("Odd")
 else:
-  print("Invalid")
+  print("invalid")
